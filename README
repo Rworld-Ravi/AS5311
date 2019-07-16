@@ -1,0 +1,7 @@
+Recommendation:
+*Use 5V instead of 3.3V on this chip. When I used 3.3V readings were unstable but 5V readings are very stable.
+
+Features:
+*Fastest library available for AS5311 on GitHub.
+*Implementation of theoretical three pole system for easy linear distance calculation.
+*Dynamic Zeroing feature. It will zero the readings and calculate offsets automatically. Very Helpful if you are designing a product.
