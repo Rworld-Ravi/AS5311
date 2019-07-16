@@ -1,6 +1,6 @@
-Recommendation:
-*Use 5V instead of 3.3V on this chip. When I used 3.3V readings were unstable but 5V readings are very stable.
-*Please choose your magnetic strip carefully. The magnetic strips which were sent by www.digikey.ca along with this chip were not working   properly. I had to order new magnetic strips from a different company and it worked like a charm.
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Recommendations:`
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `*` Use 5V instead of 3.3V on this chip. When I used 3.3V readings were unstable but 5V readings are very stable.
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `*` Please choose your magnetic strip carefully. The magnetic strips which were sent by www.digikey.ca along with this chip were not working   properly. I had to order new magnetic strips from a different company and it worked like a charm.
 
 Features:
 *Fastest library available for AS5311 on GitHub.
