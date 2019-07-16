@@ -4,4 +4,4 @@ Recommendation:
 Features:
 *Fastest library available for AS5311 on GitHub.
 *Implementation of theoretical three pole system for easy linear distance calculation.
-*Dynamic Zeroing feature :P. It will zero the readings and calculate offsets automatically. Very Helpful if you are designing a product.
+*Dynamic Zeroing feature :P. It will zero the readings and calculate offsets automatically. Very helpful if you are designing a product. 
