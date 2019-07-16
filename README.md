@@ -1,5 +1,5 @@
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Recommendations:` <br />
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `` Use 5V instead of 3.3V on this chip. When I used 3.3V readings were unstable but 5V readings are very stable. <br />
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Use 5V instead of 3.3V on this chip. When I used 3.3V readings were unstable but 5V readings are very stable. <br />
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `*` Please choose your magnetic strip carefully. The magnetic strips which were sent by www.digikey.ca along with this chip were not working   properly. I had to order new magnetic strips from a different company and it worked like a charm.
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Features:`  <br />
